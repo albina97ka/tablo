@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tablo</string>
+    <string name="banans">Кто съест больше бананов?</string>
+    <string name="sbros">Сброс</string>
+    <string name="boom">Сумасшедший</string>
+    <string name="not_boom">Адекватный</string>
+</resources>
